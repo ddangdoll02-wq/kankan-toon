@@ -11,3 +11,9 @@ kkangkkangi/ep01/ep01_post1_01.jpg ~ ep01_post1_10.jpg   ① 표지 + 본편 1~9
 kkangkkangi/ep01/ep01_post2_01.jpg ~ ep01_post2_10.jpg   ② 본편 10~18 + 다음 화 예고
 ```
 1화당 20장, 게시물 2개로 나눠 올립니다. 모든 이미지는 1080x1350 (4:5) JPEG.
+
+## 한 칸 뒤 (괴담 옴니버스)
+```
+hankandwi/intro/intro_01.jpg ~ intro_06.jpg   예고 · 제보 모집
+```
+한 편이 한 게시물(10장). 토요일 밤 10시 연재.
